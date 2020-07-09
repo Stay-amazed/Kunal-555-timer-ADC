@@ -1,0 +1,11 @@
+Partlist exported from C:/Users/Lenovo/Documents/EAGLE/projects/555 ADC/555.sch at 07-07-2020 07:43 PM
+
+Qty Value          Device          Package      Parts Description                POPULARITY SPICEPREFIX
+1   0.1u           C-US025-024X044 C025-024X044 C1    CAPACITOR, American symbol 17         C          
+1   330 ohm        R-US_0204/5     0204/5       R1    RESISTOR, American symbol  18         R          
+1   33k            R-US_0204/5     0204/5       R2    RESISTOR, American symbol  18         R          
+1   4.7u           C-US025-024X044 C025-024X044 C2    CAPACITOR, American symbol 17         C          
+1   Analog Output  PINHD-1X2       1X02         JP3   PIN HEADER                 98                    
+1   Digital Output PINHD-1X2       1X02         JP2   PIN HEADER                 98                    
+1   LM555N         LM555N          DIL08        IC2   TIMER                      0                     
+1   Spply          PINHD-1X2       1X02         JP1   PIN HEADER                 98                    

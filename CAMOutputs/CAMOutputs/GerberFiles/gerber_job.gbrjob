@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-07T14:13:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "555"
+        },
+        "Owner": "Kunal Keshav <kunalkeshav31@gmail.com>",
+        "Size": {
+            "X": 28.015238,
+            "Y": 18.415944
+        }
+    }
+}
